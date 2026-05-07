@@ -23,8 +23,11 @@
 > signals — they raise scores, not gates. Be concrete: "Hands-on
 > woodworking projects" beats "interesting stuff." Aim for 3–10 bullets.*
 
-- (replace this line with a topic you want ranked highly)
-- (add as many bullets as you like)
+- cars
+- running
+- airplanes
+- anime
+- gaming
 
 ---
 
@@ -37,8 +40,9 @@
 > in `filtered_out[].rule`. The renderer applies a colored pill to
 > matching rule names. Examples or notes can go beneath each label.*
 
-- (replace this line with a single short rule label, e.g. `politics`)
-- (add more bullets, or remove this section entirely if you want no hard filters)
+- politics
+- math
+- theater
 
 ---
 
