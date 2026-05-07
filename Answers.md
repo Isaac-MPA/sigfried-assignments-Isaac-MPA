@@ -1,0 +1,1 @@
+# a signal finder takes raw infomation from online then puts in into AI and sifts through it then produces more refined information. This refined infortmation is the info you are looking for.
