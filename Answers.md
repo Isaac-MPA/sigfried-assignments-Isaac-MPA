@@ -2,3 +2,4 @@
 # source A collects all the data the curator reads and stores it.
 # source B is the users preferences. Weather or not they want something or want to leave it out.
 # # source C explains how the the code runs to get you the info you are looking for.
+# if you would like to stop seeing sports content you would use source B to filler out sport content.
